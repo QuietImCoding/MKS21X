@@ -1,8 +1,12 @@
-add - adds file to the queue
-commit - commits file to local spacey thing
+add - adds file to thNUU I HAVE RUINED
+
+IERWO 
+commit	SOILED
+the
+ - commits file to local spacey thing
 push - pushes file to server
 pull - pulls file from server
-reset - removes file from queue
+res  I HAVE SOILED THE KRSSTY KRAB NAMEet - removes file from queue
 checkout - reset to an older version of a file
-log - show previous versions
-diff - show what was edited
+log - show previous versionsSOILED IT SOILED IT
+diff - show whsoiled it
