@@ -1,0 +1,6 @@
+add
+commit
+push
+pull
+reset
+checkout
