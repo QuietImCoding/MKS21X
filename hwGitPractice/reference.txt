@@ -1,6 +1,8 @@
-add
-commit
-push
-pull
-reset
-checkout
+add - adds file to the queue
+commit - commits file to local spacey thing
+push - pushes file to server
+pull - pulls file from server
+reset - removes file from queue
+checkout - reset to an older version of a file
+log - show previous versions
+diff - show what was edited
