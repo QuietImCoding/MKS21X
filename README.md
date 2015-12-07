@@ -10,5 +10,4 @@ This is the repo for my APCS class!!
 ## More things
 # ☃ ☃ UNICODE SNOWMEN! ☃ ☃
 
-also aparently emojis are supported? :neutral_face: \n
-I'm not sure how I feel about that.
+also aparently emojis are supported? :yum:
